@@ -15,7 +15,7 @@
   
 ### Me encontre támbem em 🔍:  
 <div>
-  <a href="https://www.linkedin.com/in/lucimar-almeida-da-silva-b83ba5121/" target="_blank" widgth="40px" height="40px" max-widght="100%"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5pS5GtjYylNR12_LLkRkuEjg8Tt3inXWFpAHXHTdXJhzS3hCxa1P0tOnV4LqIWvG4g&usqp=CAU" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucimar-almeida-da-silva-b83ba5121/" target="_blank" widgth="30" height="40" max-widght="100%" border-radius="5px"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5pS5GtjYylNR12_LLkRkuEjg8Tt3inXWFpAHXHTdXJhzS3hCxa1P0tOnV4LqIWvG4g&usqp=CAU" target="_blank"></a>
 </div>
 
 
