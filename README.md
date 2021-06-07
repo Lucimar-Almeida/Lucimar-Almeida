@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/lucimar-almeida">
-  <img height="170em" width="422em" src="https://github-readme-stats.vercel.app/api?username=lucimar-almeida&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="425em" src="https://github-readme-stats.vercel.app/api?username=lucimar-almeida&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimar-almeida&layout=compact&langs_count=16&theme=outrun"/>
 </div>
   <div style="display: inline_block"><br>
