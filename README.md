@@ -1,6 +1,6 @@
 # Olá!!!🙋‍♂️  Eu sou Lucimar...
 
-<div display="inline-block">
+<div display="block">
   <a href="https://github.com/lucimar-almeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucimar-almeida&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucimar-almeida&layout=compact&langs_count=16&theme=outrun"/>
@@ -15,7 +15,7 @@
   
 ### Me encontre támbem em 🔍:  
 <div>
-  <a href="https://www.linkedin.com/in/lucimar-almeida-da-silva-b83ba5121/" target="_blank" widgth="40px" height="40px" max-widght="100%"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucimar-almeida-da-silva-b83ba5121/" target="_blank" widgth="40px" height="40px" max-widght="100%"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5pS5GtjYylNR12_LLkRkuEjg8Tt3inXWFpAHXHTdXJhzS3hCxa1P0tOnV4LqIWvG4g&usqp=CAU" target="_blank"></a>
 </div>
 
 
